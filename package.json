@@ -1,0 +1,27 @@
+{
+    "name": "data-transform",
+    "version": "1.0.0",
+    "description": "A utility for data transformation",
+    "main": "dist/DataTransform.js",
+    "types": "dist/DataTransform.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "data",
+        "transformation"
+    ],
+    "author": "Naman Sanura",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NamanHS/data-transform.git"
+    },
+    "bugs": {
+        "url": "https://github.com/NamanHS/data-transform.git"
+    },
+    "homepage": "https://github.com/NamanHS/data-transform#readme",
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
+}
