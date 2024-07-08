@@ -1,5 +1,5 @@
 {
-    "name": "data-transform",
+    "name": "node-data-transform",
     "version": "1.0.0",
     "description": "A utility for data transformation",
     "main": "dist/DataTransform.js",
