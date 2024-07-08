@@ -1,6 +1,6 @@
 # DATA TRANSFORMATION
 The module for transforming and performing operations on JSON.
-The library is very much inspired by node-json-transform npm package and it is **60% More fast compared node-json-transform** as it is not dependent on any other node packages (like lodash which causes performance issues in the node-json-transform npm package) for validations, iterations, mapping, demapping and transforming.
+The library is very much inspired by node-json-transform npm package and it is **60% More fast compared node-json-transform** as it is not dependent on any other node packages (like lodash which causes performance issues) for validations, iterations, mapping, demapping and transforming.
 
 
 
